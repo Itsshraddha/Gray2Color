@@ -107,7 +107,7 @@ Choose from 15+ professional colormaps including:
 <sub>Signal intensity range: [0-255]</sub>
 </td>
 <td align="center" width="50%">
-<img src="https://via.placeholder.com/600x400/E74C3C/ECF0F1?text=Colorized+Output+Image" width="100%"/>
+<img src="Colored.png" width="100%"/>
 <br/>
 <b>🌈 Colorized Output</b>
 <br/>
@@ -117,7 +117,7 @@ Choose from 15+ professional colormaps including:
 <tr>
 <td align="center" colspan="2">
 <br/>
-<img src="https://via.placeholder.com/1200x300/34495E/ECF0F1?text=Side-by-Side+Comparison+View" width="100%"/>
+<img src="Output.png" width="100%"/>
 <br/><br/>
 <b>📸 Complete Transformation Comparison</b>
 <br/>
