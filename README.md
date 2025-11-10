@@ -100,7 +100,7 @@ Choose from 15+ professional colormaps including:
 <table>
 <tr>
 <td align="center" width="50%">
-<img src="https://via.placeholder.com/600x400/2C3E50/ECF0F1?text=Input+Grayscale+Image" width="100%"/>
+<img src="BwImage.jpg" width="100%"/>
 <br/>
 <b>🖤 Original Grayscale Input</b>
 <br/>
